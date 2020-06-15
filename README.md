@@ -1,2 +1,3 @@
 # NomadlistClone
-Nomadlist Mobile First Clone
+Nomadlist Mobile First Clone 
+HTML & CSS
